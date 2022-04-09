@@ -1,17 +1,17 @@
 import { useState } from 'react'
 import './App.css'
 
-let grievance;
+// let grievance;
 
-const btn1 = document.getElementsByClassName('btn')[0]
+// const btn1 = document.getElementsByClassName('btn')[0]
 
-btn1.addEventListener('click', btnClick());
+// btn1.addEventListener('click', btnClick());
 
-const btnClick = () => {
-	grievance = ``;
-	grievance = grv.value;
-	grv.value = ``;
-}
+// const btnClick = () => {
+// 	grievance = ``;
+// 	grievance = grv.value;
+// 	grv.value = ``;
+// }
 
 console.log(grievance);
 
