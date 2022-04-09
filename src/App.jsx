@@ -13,7 +13,7 @@ import './App.css'
 // 	grv.value = ``;
 // }
 
-console.log(grievance);
+// console.log(grievance);
 
 function App() {
   const [count, setCount] = useState(0)
